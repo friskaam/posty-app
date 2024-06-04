@@ -10,7 +10,7 @@
 - [ ] Post
   - [ ] Create Post Schema
   - [ ] Create posts
-  - [_] Get posts
+  - [ ] Get posts
   - [ ] Infinite scrolling
   - [ ] Delete posts
   - [ ] Edit post
