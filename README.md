@@ -4,6 +4,7 @@
 
 - [ ] Auth
   - [ ] Sign in with Github
+  - [ ] [ ] Sign in with Google
   - [ ] Add and autogenerate username
   - [ ] Show username
   - [ ] Logout
